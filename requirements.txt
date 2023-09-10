@@ -1,4 +1,6 @@
 
-numpy
-matplotlib
-ipykernel  # for jupyter notebook
+numpy       # for matrix operations
+matplotlib  # for plotting
+ipykernel   # for jupyter notebook
+nnfs==0.5.1 # for code along
+
